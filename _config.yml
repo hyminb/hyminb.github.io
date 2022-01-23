@@ -4,7 +4,7 @@ email: hmbaek at pusan dot ac dot kr
 description: Ph.D. course note
 show_downloads: false
 google_analytics: UA-108144808-1
-color-scheme: auto
+color-scheme: air
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
